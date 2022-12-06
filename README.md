@@ -81,7 +81,6 @@ This document compares —
 	</tbody>
 </table>
 
-
 ## Links
 
 <table>
@@ -111,6 +110,45 @@ This document compares —
 			<td  align="center">✅</td>
 			<td  align="center">✅</td>
 			<td  align="center">✗</td>
+		</tr>
+	</tbody>
+</table>
+
+## Privacy
+
+<table>
+	<thead>
+		<tr>
+			<th></th>
+			<th>HTTP & HTML</th>
+			<th>gemini & gemtext</th>
+			<th>gopher & gophermap</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">encryption</th>
+			<td align="center">✅</td>
+			<td align="center">✅</td>
+			<td align="center">✗</td>
+		</tr>
+		<tr>
+			<th scope="row">mandatory encryption</th>
+			<td align="center">✗</td>
+			<td align="center">✅</td>
+			<td align="center">✗</td>
+		</tr>
+		<tr>
+			<th scope="row">self-signed certificates</th>
+			<td align="center">✗</td>
+			<td align="center">✅</td>
+			<td align="center">✗</td>
+		</tr>
+		<tr>
+			<th scope="row">self-third-party signed certificates</th>
+			<td align="center">✅</td>
+			<td align="center">✅</td>
+			<td align="center">✗</td>
 		</tr>
 	</tbody>
 </table>
