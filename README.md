@@ -80,10 +80,10 @@ This document compares —
 			<td align="center">✅</td>
 		</tr>
 		<tr>
-			<th scope="row"></th>
-			<td></td>
-			<td></td>
-			<td></td>
+			<th scope="row">URIs</th>
+			<td  align="center">✅</td>
+			<td  align="center">✅</td>
+			<td  align="center">✗</td>
 		</tr>
 	</tbody>
 </table>
