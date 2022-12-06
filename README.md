@@ -4,7 +4,7 @@ This document compares —
 
 * **gemini** & **gemtext**, against
 * **HTTP** & **HTML**, and also against
-* **gopher** & **gophermap**
+* **gopher** & **gophermap**.
 
 ## Formatting
 
@@ -80,6 +80,40 @@ This document compares —
 		</tr>
 	</tbody>
 </table>
+
+## Legibility
+
+<table>
+	<thead>
+		<tr>
+			<th></th>
+			<th>HTTP & HTML</th>
+			<th>gemini & gemtext</th>
+			<th>gopher & gophermap</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">human-legible</th>
+			<td align="center">✗ & ✗</td>
+			<td align="center">✗ & ✅</td>
+			<td align="center">✗ & ✗</td>
+		</tr>
+		<tr>
+			<th scope="row">machine-legible</th>
+			<td align="center">✅ & ✅</td>
+			<td align="center">✅ & ✅</td>
+			<td align="center">✅ & ✅</td>
+		</tr>
+		<tr>
+			<th scope="row">programmer-legible</th>
+			<td align="center">✅ & ✅</td>
+			<td align="center">✅ & ✅</td>
+			<td align="center">✅ & ✅</td>
+		</tr>
+	</tbody>
+</table>
+
 
 ## Links
 
