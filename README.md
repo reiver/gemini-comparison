@@ -33,6 +33,33 @@ This document compares —
 	</tbody>
 </table>
 
+## Identity
+
+<table>
+	<thead>
+		<tr>
+			<th></th>
+			<th>HTTP & HTML</th>
+			<th>gemini & gemtext</th>
+			<th>gopher & gophermap</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">client public-key</th>
+			<td align="center">✗</td>
+			<td align="center">✅</td>
+			<td align="center">✗</td>
+		</tr>
+		<tr>
+			<th scope="row">cookies</th>
+			<td align="center">✅</td>
+			<td align="center">✗</td>
+			<td align="center">✗</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Images
 
 <table>
