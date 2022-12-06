@@ -80,7 +80,7 @@ This document compares —
 			<td align="center">✅</td>
 		</tr>
 		<tr>
-			<th scope="row">URIs</th>
+			<th scope="row">URIs & URLs</th>
 			<td  align="center">✅</td>
 			<td  align="center">✅</td>
 			<td  align="center">✗</td>
